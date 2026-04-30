@@ -12,7 +12,7 @@ TurtleBot / ROS2 Nav2 / Qt UI / MobileNetV2 / MediaPipe / TCP
 
 ## 📌 프로젝트 개요
  
-- 📅 **수행 기간**: 2026.04.20 ~ 2026.04.30
+- 📅 **수행 기간**: 2026.04.17 ~ 2026.04.27
 - 🛠 **사용 기술**:
   - TurtleBot / ROS2 Nav2
   - Raspberry Pi 4 (×2) / Python 3
