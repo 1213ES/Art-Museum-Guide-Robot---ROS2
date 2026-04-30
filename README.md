@@ -10,6 +10,27 @@ TurtleBot / ROS2 Nav2 / Qt UI / MobileNetV2 / MediaPipe / TCP
 
 ---
 
+## 📌 프로젝트 개요
+ 
+- 📅 **수행 기간**: 2026.04.20 ~ 2026.04.30
+- 🛠 **사용 기술**:
+  - TurtleBot / ROS2 Nav2
+  - Raspberry Pi 4 (×2) / Python 3
+  - C++17 / Qt6 Dashboard
+  - MobileNetV2 (PyTorch) 작품 인식
+  - MediaPipe Hands 제스처 인식
+  - RealSense D435 RGB+깊이 카메라
+  - SQLite3 / WiFi TCP 통신
+- 🎯 **주요 기능**:
+  - OpenCV QR 인증 → 서보모터 출입문 자동 개방
+  - Qt 목적지 선택 → Nav2 자율주행 이동
+  - MobileNetV2 + 코사인 유사도 기반 미술작품 자동 인식 및 TTS 안내
+  - MediaPipe 제스처(주먹/손 펼치기)로 로봇 즉시 정지 및 호출
+  - 카메라 1대로 제스처·작품 인식 포트 분리 이중 활용
+  - 관리자 Qt 대시보드 실시간 제어 및 TTS 작품 설명 출력
+  - 
+---
+
 # 2. 개발 배경 및 목표
 
 최근 문화예술 관람객이 꾸준히 증가하면서 박물관·미술관에서는 인력 부족과 안내원 과로 문제가 대두되고 있다.
