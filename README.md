@@ -28,7 +28,7 @@ TurtleBot / ROS2 Nav2 / Qt UI / MobileNetV2 / MediaPipe / TCP
   - MediaPipe 제스처(주먹/손 펼치기)로 로봇 즉시 정지 및 호출
   - 카메라 1대로 제스처·작품 인식 포트 분리 이중 활용
   - 관리자 Qt 대시보드 실시간 제어 및 TTS 작품 설명 출력
-  - 
+ 
 ---
 
 # 2. 개발 배경 및 목표
