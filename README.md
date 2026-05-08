@@ -95,9 +95,9 @@ TurtleBot / ROS2 Nav2 / Qt UI / MobileNetV2 / MediaPipe / TCP
 
 # 3-1. 하드웨어 정리
 <p align="center">
-  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/hardware_front.png" width="350"/>
+  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/hardware_front.png" width="150"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/hardware_backt.png" width="350"/>
+  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/hardware_backt.png" width="150"/>
 </p>
 
 
