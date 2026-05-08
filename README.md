@@ -352,7 +352,7 @@ ArtworkPage → (완료) → DestinationPage (반복)
 
 
 <p align="center">
-  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/map.jpg" width="300"/>
+  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/map2.jpg" width="300"/>
 </p>
 
 <p align="center">
