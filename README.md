@@ -349,3 +349,11 @@ ArtworkPage → (완료) → DestinationPage (반복)
 - **클라우드 티켓 발권** : 온라인 예매 → QR 자동 발급 파이프라인 연동
 - **3D 조각품 인식** : 깊이 카메라 포인트 클라우드 + 3D 특징 벡터 추출로 조각품 대응
 - **다중 로봇 확장** : 서버 DeviceState 구조 도입으로 복수 안내로봇 동시 운영
+
+<p align="center">
+  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/jinju.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/map.jpg" width="500"/>
+</p>
