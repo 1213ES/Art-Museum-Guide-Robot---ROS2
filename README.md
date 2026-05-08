@@ -50,7 +50,13 @@ TurtleBot / ROS2 Nav2 / Qt UI / MobileNetV2 / MediaPipe / TCP
 
 # 3. 시스템 구성도
 
-> 📷 **[시스템 구성도 사진 자리]**
+<p align="center">
+  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/flow1.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/flow2.png" width="700"/>
+</p>
 
 ```
 [QR Pi (RPi4 #1)]
