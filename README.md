@@ -350,11 +350,3 @@ ArtworkPage → (완료) → DestinationPage (반복)
 - **3D 조각품 인식** : 깊이 카메라 포인트 클라우드 + 3D 특징 벡터 추출로 조각품 대응
 - **다중 로봇 확장** : 서버 DeviceState 구조 도입으로 복수 안내로봇 동시 운영
 
-
-<p align="center">
-  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/map2.jpg" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/jinju.jpg" width="300"/>
-</p>
