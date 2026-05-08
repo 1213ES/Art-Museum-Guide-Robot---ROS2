@@ -355,5 +355,5 @@ ArtworkPage → (완료) → DestinationPage (반복)
 </p>
 
 <p align="center">
-  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/map.jpg" width="500"/>
+  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/map2.jpg" width="500"/>
 </p>
