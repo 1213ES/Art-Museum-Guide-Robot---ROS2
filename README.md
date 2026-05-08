@@ -308,8 +308,8 @@ nav_client.cpp sendGoalToUser() 흐름
 ---
 
 # 8. Qt UI 화면 구성
-<p align="center">
-  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/qt_ui.png" width="500"/>
+<p>
+  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/raw/main/images/qt_ui.png" width="650"/>
 </p>
 
 | 페이지 | 파일 | 역할 |
