@@ -332,10 +332,7 @@ ArtworkPage → (완료) → DestinationPage (반복)
 
 ---
 # 🎬​시연영상🎬​
-<p align="center">
-  <img src="https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/blob/main/images/ros_image.png" width="250"/>
- 
- https://youtu.be/bTPNr1uK0VA
+[![썸네일 설명](https://github.com/1213ES/Art-Museum-Guide-Robot---ROS2/blob/main/images/ros_image.png](https://youtu.be/bTPNr1uK0VA)
  
 ---
 
